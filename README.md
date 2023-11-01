@@ -1,2 +1,2 @@
 # Aliens_Game_Player
-This project is an interface for playing aliens games. It should control the character with eyes and jump with a loud sound (in Python) language.
+It's an interface for playing [aliens game](https://github.com/xamox/pygame/blob/master/examples/aliens.py). It should control the character with eyes and jump with a loud sound.
